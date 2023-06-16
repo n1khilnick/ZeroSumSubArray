@@ -5,7 +5,7 @@ Write a program that takes as input an array of positive and negative numbers (0
 return those items from the array whose sum is 0. If no such items exist return “No Elements found”
 
 ### Example
-Example: For an input array [-4, 1, 3, -2, -1],
+Example: For an input array [-4, 1, 3, -2, -1] <br>
 one of the possible results would be 3, -2, -1 since their sum is 0.
 
 * Additional Examples
